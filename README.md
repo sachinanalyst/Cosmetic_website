@@ -16,4 +16,4 @@ Follow these steps to set up the project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/casmatic.git
+  https://github.com/sachinanalyst/Cosmetic_website.git
